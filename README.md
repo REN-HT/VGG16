@@ -1,5 +1,5 @@
 # VGG16
-vgg16
+vgg16 architecture
 
 ## prerequisite  
 windows10  
