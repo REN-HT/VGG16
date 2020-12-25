@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from torch import nn
 import torch as t
 from torch.nn import functional as F
